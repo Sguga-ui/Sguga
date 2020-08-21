@@ -1,6 +1,6 @@
 
 
-const $tool = new Tool()
+
 const path1 = "/amdc/mobileDispatch"
 const path2 = "/gw/mtop.taobao.detail.getdetail"
 const consoleLog = false
